@@ -38,5 +38,5 @@ Busco activamente oportunidades (pasantías, roles junior, trainee) para unirme 
 
 Me encantaría conversar sobre tecnología, negocios o posibles colaboraciones. ¡No dudes en contactarme!
 
-* **LinkedIn:** [Aquí va el enlace a tu perfil de LinkedIn]((https://linkedin.in/in/brandolino-carlos-miyen))
-* **GitHub:** [Mi Perfil de GitHub]((https://github.com/MiyoBran))
+* **LinkedIn:** [Mi Perfil de LinkedIn](https://linkedin.com/in/brandolino-carlos-miyen)
+* **GitHub:** [Mi Perfil de GitHub](https://github.com/MiyoBran)
